@@ -1,2 +1,2 @@
 <h2>Angel Levering</h2>
-![profile](![image](https://user-images.githubusercontent.com/128650432/227069118-da7fc9c2-9f2a-481c-8106-e129f975c073.png)
+<img style="float: right;" src="![image](https://user-images.githubusercontent.com/128650432/227070030-10f5d1a4-ee72-4fc4-80df-e47c4fd9d969.png)" width="125" height="125">
