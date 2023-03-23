@@ -1,5 +1,5 @@
 <h1>Angel Levering</h1>
-_mom_student_athlete_
+_mom_ _student_ _athlete_
 
 ![image](https://user-images.githubusercontent.com/128650432/227081920-437b02f9-f6d4-4cb3-9293-751745c5fa5f.png)
 <h3>Intro</h3>
