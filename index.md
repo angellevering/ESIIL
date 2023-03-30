@@ -16,4 +16,3 @@ I am enrolled in the Standing Rock Sioux Tribe. I have three kids, ages are four
   <li>angellevering@gmail.com</li>
   <li>levering.angel@stu.uttc.edu</li>
   <li>https://github.com/angellevering<li>
-</ul>
